@@ -1,4 +1,4 @@
-// Buat loop sampai 1000
+// Buat looping sampai 1000
 // Jika ketemu angka habis dibagi 3 outputkan => Fizz
 // Jika ketemu angka habis dibagi 5 outputkan => Buzz
 // Jika ketemu angka habis dibagi 3 dan 5 outputkan => Fizzbuzz
